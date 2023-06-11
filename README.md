@@ -4,8 +4,12 @@
 
 ### My Job
 
-- Currently working in GDL Mexico as software engineer and automation in a Tesla project.
+- Currently working in GDL Mexico as software engineer and automation in a Tesla project.<img src=https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png alt="Tesla" width=20px height=15px>
+<!--![Tesla](https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png)
+-->
+
 - My focus in job right now is C# as automatiton language programming, ESPEL+ for Epson robots programming and Artifitial Vision with Cognex for inspect the production line. 
+
 
 ### My personal insterest are: 
 - Linux 
