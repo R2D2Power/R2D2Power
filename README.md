@@ -8,7 +8,7 @@
 <!--![Tesla](https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png)
 -->
 
-- My focus in job, right now, is with <img src=https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png alt="Csharp" width=30px height=30px> as an automatiton language programming, SPEL+ for Epson robots programming and Artifitial Vision with Cognex for inspect the production line. 
+- My focus in job, right now, is with <img src=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png alt="Csharp" width=30px height=30px> as an automatiton language programming, SPEL+ for Epson robots programming and Artifitial Vision with Cognex for inspect the production line. 
 
 
 ### My personal insterest are: 
