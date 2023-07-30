@@ -4,11 +4,11 @@
 
 ### My Job
 
-- Currently working in GDL Mexico as software engineer and automation in a Tesla project.<img src=https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png alt="Tesla" width=20px height=15px>
+- Currently working in GDL Mexico as software engineer in a Tesla project.<img src=https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png alt="Tesla" width=20px height=15px>
 <!--![Tesla](https://cdn.iconscout.com/icon/free/png-256/free-tesla-3629186-3030326.png)
 -->
 
-- My focus in job, right now, is with <img src=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png alt="Csharp" width=20px height=20px> as an automatiton language programming, SPEL+ for Epson robots programming and Artifitial Vision with Cognex for inspect the production line. 
+- My focus in job, right now, is with <img src=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png alt="Csharp" width=20px height=20px> as an automatiton language programming, SPEL+ for Epson robots programming and Artifitial Vision with Cognex. 
 
 
 ### My personal insterest are: 
