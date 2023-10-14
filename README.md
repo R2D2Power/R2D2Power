@@ -13,7 +13,7 @@
 
 ### My personal insterest are: 
 - Linux <img src=https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png alt="Linux" width=20px height=15px>
-- C++ <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png alt="C++" width=15px height=15px>
+<!--- C++ <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png alt="C++" width=15px height=15px>-->
 - Machine Learning 🤖 🧠
 - Robotics 🦾
 - Videogames 🎮
