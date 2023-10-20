@@ -17,3 +17,6 @@
 - Machine Learning 🤖 🧠
 - Robotics 🦾
 - Videogames 🎮
+
+### Personal Web Site
+https://r2d2power.github.io/cesar_arturo_web/
